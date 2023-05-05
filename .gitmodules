@@ -1,0 +1,6 @@
+[submodule "Engine/external/imgui"]
+	path = Engine/external/imgui
+	url = https://github.com/jshatto0225/imgui
+[submodule "Engine/external/GLFW"]
+	path = Engine/external/GLFW
+	url = https://github.com/jshatto0225/glfw
